@@ -1,2 +1,3 @@
 # hello-world
-Solo es un Hola mundo
+Hi!
+I'm just learning about Github :)
